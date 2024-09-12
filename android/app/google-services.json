@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525790428461",
+    "project_id": "uttopic-afe89",
+    "storage_bucket": "uttopic-afe89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525790428461:android:be52ffb35a3146e31d27a4",
+        "android_client_info": {
+          "package_name": "com.satoshi.uttopic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoOuwCjNvJK1Jttp4V2zVltDbORMV_Ynk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
